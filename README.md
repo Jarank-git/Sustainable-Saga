@@ -5,7 +5,6 @@ Learn about sustainability and environmental protection while exploring, talking
 
 🎮 Features
 
-Multiple Game Modes
 
 Intro: Title screen with music.
 
@@ -122,18 +121,7 @@ Win or Lose ending screen.
 
 Sprites & Backgrounds: Custom + stock images.
 
-Sounds: Retro music, shooting, cheering, and effects.
+Sounds: Retro music, shooting, cheering, and effects from non-copyrighted sources.
 
-(Make sure to include attribution here if you pulled assets from free sources like OpenGameArt or Pixabay.)
 
-🚀 Future Improvements
 
-Add more quiz questions.
-
-More complex platformer level design.
-
-Health packs / power-ups.
-
-Save progress feature.
-
-Improved dialogue system with branching paths.
