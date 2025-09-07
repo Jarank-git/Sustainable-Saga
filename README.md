@@ -1,9 +1,9 @@
-🌍 Sustainable
+ Sustainable Saga
 
 A Python + Pygame educational adventure game where you play as the Green Guardian, fighting to save Fleetwood from the villain Waste Monger.
 Learn about sustainability and environmental protection while exploring, talking to NPCs, and battling in a platformer fight. At the end, test your knowledge in a short quiz!
 
-🎮 Features
+Features
 
 
 Intro: Title screen with music.
@@ -30,7 +30,7 @@ Quiz with Multiple Choice: Tests your understanding with randomized questions.
 
 Background Music + Sound Effects (shooting, cheering, damage, etc.).
 
-🕹️ Controls
+Controls
 
 Top-Down Mode
 
@@ -54,7 +54,7 @@ Click Next Button in dialogues to continue conversations.
 
 Click on answer options during quiz.
 
-🧩 Requirements
+Requirements
 
 Python 3.8+
 
@@ -64,7 +64,7 @@ Install dependencies with:
 
 pip install pygame
 
-▶️ How to Run
+How to Run
 
 Clone or download this repository.
 
@@ -117,11 +117,11 @@ Quiz about sustainability.
 
 Win or Lose ending screen.
 
-🔊 Assets Used
+Hackathon Results
 
-Sprites & Backgrounds: Custom + stock images.
+This project earned my team and I 2nd place at MillHacks
 
-Sounds: Retro music, shooting, cheering, and effects from non-copyrighted sources.
+
 
 
 
